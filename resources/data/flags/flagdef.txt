@@ -1,0 +1,4 @@
+#load poles /data/flags/poles.txt
+#load baseflags /data/flags/baseflags.txt
+#load borders /data/flags/borders.txt
+#load topicons /data/flags/topicons.txt

@@ -1,0 +1,9 @@
+
+
+
+#new
+#sprite "/graphics/flags/borders/borders.png"
+#recolormask self
+#basechance 1
+#convert_to_alpha
+#end

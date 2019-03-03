@@ -906,7 +906,7 @@ version 0.5.0.02E (5th of October 2014)
 - added predator/sobek lizard race
 
 - added #primaryraceonly to Amazon "metic" units, Machakan pygmies, markata, and predator lizard slaves
-- fixed typo with #makepearls in ./data/filters/
+- fixed typo with #makepearls in /data/filters/
 
 - added #primaryraceonly command to exclude poses from generating as auxiliaries (there may still be bugs with commanders, but I think I got them all)
 
